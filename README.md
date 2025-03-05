@@ -21,6 +21,6 @@ O objetivo deste repositório é:
 Este é um repositório pessoal, mas sugestões ou dicas são sempre bem-vindas! Sinta-se à vontade para abrir uma *issue* ou me contatar.
 
 ## Sobre Mim
-Sou um(a) estudante/entusiasta de programação buscando aprimorar minhas habilidades em lógica e desenvolvimento de software. Este repositório é parte do meu caminho para me tornar um(a) desenvolvedor(a) a cada dia melhor.
+Me chamo Renato sou um estudante de programação. Este repositório é parte do meu caminho para me tornar um(a) desenvolvedor(a) a cada dia melhor.
 
 Tudo tem um começo, a parte mais importante sempre será o primeiro passo.

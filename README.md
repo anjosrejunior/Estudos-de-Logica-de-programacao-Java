@@ -10,8 +10,7 @@ O objetivo deste repositório é:
 
 ## Estrutura do Repositório
 - **/exercicios**: Contém exercícios práticos organizados por temas (ex.: condicionais, loops, arrays, etc.).
-- **/projetos**: Pequenos projetos ou desafios mais elaborados que aplicam os conceitos aprendidos.
-- **/anotacoes**: Arquivos com resumos ou comentários sobre o que aprendi em cada etapa.
+- **/exercicios/readme.md**: Cada exercício tem um readme que fiz questão de escrever a explicação de cada código com minhas próprias mãos e palavras sem auxílio de IA para que eu pudesse praticar mais ainda o meu entendimento sobre os códigos que eu escrevi.
 
 ## Tecnologias Utilizadas
 - **Java**: Linguagem principal usada nos códigos.

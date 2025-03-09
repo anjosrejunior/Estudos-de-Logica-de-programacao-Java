@@ -4,6 +4,10 @@ import java.text.DecimalFormat;
 public class App {
     public static void main(String[] args) throws Exception {
         
+        Random random = new Random();
+
+        DecimalFormat df = new DecimalFormat("#.##");
+        
         String[] sexo = new String[50];
 
         double[] alturas = new double[50];
@@ -11,10 +15,6 @@ public class App {
         double somaAlturaF, mediaAlturaF, percentM, percentF;
 
         int qtMulheres, qtHomens;
-
-        Random random = new Random();
-
-        DecimalFormat df = new DecimalFormat("#.##");
 
         for (int i = 0; i < 50; i++) {
             sexo[i] = random.nextBoolean() ? "M" : "F";

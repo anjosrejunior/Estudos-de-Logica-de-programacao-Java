@@ -5,7 +5,7 @@ public class Main {
         Random random = new Random();
 
         // Cria um array de 4 elementos (ou mais, se desejar)
-        int[] vet = {0,1,2,0,1,2,3,4,};
+        int[] vet = {0,1,2,0,1,2,3,4};
 
         // Variáveis para rastrear a sequência atual e a maior sequência
         int sequencia = 1;

@@ -1,11 +1,12 @@
-public record FichaALunos(
+public record FichaAlunos(
         int numeroMatricula,
         String nome,
         String serie,
         boolean sexo,
         int anoDeNascimento,
-        int turma,
+        String turma,
         double media,
         boolean aprovado,
-        String Naturalidade
+        int idade,
+        String naturalidade
 ) { }

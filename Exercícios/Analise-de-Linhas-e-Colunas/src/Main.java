@@ -39,8 +39,8 @@ public class Main {
         }
 
         System.out.println("\n----- Menores Números das Linhas -----");
-        for (int i = 0; i < maiores.length; i++) {
-            System.out.println("Maior número da linha" + i + ": " + maiores[i]);
+        for (int i = 0; i < menores.length; i++) {
+            System.out.println("Menor número da linha " + i + ": " + menores[i]);
         }
     }
 }

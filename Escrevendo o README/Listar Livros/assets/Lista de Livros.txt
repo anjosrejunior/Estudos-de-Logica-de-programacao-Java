@@ -1,0 +1,10 @@
+1984;Ficção Distópica;328
+O Senhor dos Anéis;Fantasia Épica;1216
+Cem Anos de Solidão;Realismo Mágico;417
+Orgulho e Preconceito;Romance Clássico;432
+A Metamorfose;Ficção Filosófica;144
+Dom Quixote;Romance de Aventura;1072
+Moby Dick;Aventura Marítima;624
+Ulisses;Romance Modernista;732
+O Pequeno Príncipe;Fábula Filosófica;96
+Crime e Castigo;Romance Psicológico;672

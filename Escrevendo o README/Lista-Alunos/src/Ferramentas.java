@@ -805,6 +805,5 @@ public class Ferramentas {
         for (int i = 0; i < maioresTurma.length; i++) {
             System.out.println("Aluno " + (i+1) + ": " + maioresTurma[i]);
         }
-
     }
 }

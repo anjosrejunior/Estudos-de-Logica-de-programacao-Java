@@ -1,7 +1,5 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class Main {
@@ -10,7 +8,6 @@ public class Main {
     static Scanner scan = new Scanner(System.in);
 
     public static void read(){
-
         try (BufferedReader bufferedReader = new BufferedReader(new FileReader("C:\\Users\\anjos\\Estudos-DEV\\Logica-de-Programacao-Java\\Escrevendo o README\\Professor-notas\\assets\\Lista de Alunos.txt"))){
             while ((bookLine = bufferedReader.readLine()) != null) {
                 String[] campos = bookLine.split(";");
@@ -33,11 +30,12 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        while (alunos != 0) {
-            System.out.print("Consulte através do número de chamada: ");
 
+        bookSearch = "A";
+        while (!bookSearch.equals("0")) {
+            System.out.print("\nConsulte a ficha do aluno pelo número de chamada: ");
+            bookSearch = scan.nextLine();
+            read();
         }
-
-        read();
     }
 }

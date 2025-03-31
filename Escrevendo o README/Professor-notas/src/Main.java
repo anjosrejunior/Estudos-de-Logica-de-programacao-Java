@@ -29,13 +29,27 @@ public class Main {
         }
     }
 
+    public static void readGroup(){
+        try (BufferedReader bufferedReader = new BufferedReader(new FileReader("C:\\Users\\anjos\\Estudos-DEV\\Logica-de-Programacao-Java\\Escrevendo o README\\Professor-notas\\assets\\Lista de Alunos.txt"))){
+
+
+        } catch (Exception e) {
+            System.out.println("Erro ao encontrar o arquivo: " + e.getMessage());
+        }
+    }
+
     public static void main(String[] args) {
 
+        // Busca da situação do aluno pelas médias
         bookSearch = "A";
         while (!bookSearch.equals("0")) {
             System.out.print("\nConsulte a ficha do aluno pelo número de chamada: ");
             bookSearch = scan.nextLine();
             read();
         }
+
+        // Leitura das médias por grupo
+
+
     }
 }

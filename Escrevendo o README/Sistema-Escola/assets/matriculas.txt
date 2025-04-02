@@ -1,0 +1,10 @@
+João Silva;Engenharia Civil;1;1
+Maria Oliveira;Medicina;2;0
+Pedro Santos;Direito;3;1
+Ana Souza;Psicologia;4;0
+Lucas Pereira;Ciência da Computação;5;1
+Julia Ferreira;Engenharia Civil;1;0
+Gabriel Rodrigues;Medicina;2;1
+Bruna Costa;Direito;3;0
+Rafael Martins;Psicologia;4;1
+Amanda Rocha;Ciência da Computação;5;0

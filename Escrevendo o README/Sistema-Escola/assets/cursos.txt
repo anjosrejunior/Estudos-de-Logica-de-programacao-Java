@@ -1,0 +1,5 @@
+1;Engenharia Civil
+2;Medicina
+3;Direito
+4;Psicologia
+5;Ciência da Computação

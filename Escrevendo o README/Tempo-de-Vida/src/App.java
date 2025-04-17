@@ -49,7 +49,7 @@ public class App {
             }
         }
 
-        System.out.println("Você está vivo á " + anos +" ou "+ meses +" ou "+ dias);
+        System.out.println("Você está vivo á " + anos + " anos ou " + meses + " mêses ou " + dias + " dias");
         
         scan.close();
     }

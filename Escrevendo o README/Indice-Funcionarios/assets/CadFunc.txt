@@ -1,0 +1,10 @@
+João Silva;Rua das Flores, 123;123456789;987654321;Centro;12345000;2015-06-15;2023-09-20;Casado;2;4500.00;Analista de Sistemas;TI
+Maria Oliveira;Av. Paulista, 456;987654321;912345678;Bela Vista;54321000;2018-03-10;2022-12-30;Solteira;0;3800.00;Assistente Administrativo;RH
+Carlos Mendes;Rua das Palmeiras, 789;456123789;934567812;Vila Nova;67890000;2012-11-25;2021-08-17;Divorciado;1;5200.00;Gerente de Vendas;Comercial
+Fernanda Souza;Av. Brasil, 101;321654987;956781234;Jardim América;78901200;2016-07-19;2024-01-05;Casada;3;6100.00;Coordenadora de Projetos;Engenharia
+Ricardo Lima;Rua do Sol, 303;789456123;945612378;Morumbi;89012345;2019-05-14;2023-06-28;Solteiro;0;3500.00;Designer Gráfico;Marketing
+Luana Ferreira;Travessa da Paz, 77;654987321;964578123;Centro;23456789;2013-09-30;2022-04-15;Viúva;2;4700.00;Contadora;Financeiro
+Gabriel Rocha;Rua São Paulo, 202;852741963;978456321;Copacabana;36985214;2017-08-12;2021-10-29;Casado;1;4000.00;Técnico em Informática;TI
+Adriana Nunes;Alameda das Rosas, 999;147852369;923654789;Santa Cecília;74125896;2014-02-20;2023-03-18;Divorciada;2;5600.00;Advogada;Jurídico
+Thiago Almeida;Rua das Orquídeas, 550;369258147;931478526;Botafogo;85274196;2011-10-05;2020-07-21;Casado;3;7200.00;Engenheiro Civil;Engenharia
+Vanessa Cardoso;Estrada da Serra, 1200;951357462;987654123;Tijuca;96385274;2019-12-01;2022-05-10;Solteira;0;3400.00;Recepcionista;Atendimento
